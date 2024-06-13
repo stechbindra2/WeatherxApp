@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_searchviewshape.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\searchviewshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\font_merriweathersans_bold.ttf.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\font\\merriweathersans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_backgroundshape.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\backgroundshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_sunrise.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\sunrise.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_wind.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_snow.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\snow.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\raw_snow.json.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\raw\\snow.json"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_loctaion.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\loctaion.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_white_cloud.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\white_cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_conditions.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\conditions.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_centigrade.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\centigrade.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_spalsh_screen.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\spalsh_screen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\font_merriweathersans_semibold.ttf.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\font\\merriweathersans_semibold.ttf"
+    },
+    {
+        "merged": "com.stechbindra.weatherxapp-debug-32:/drawable_cloud_background.xml.flat",
+        "source": "com.stechbindra.weatherxapp-main-34:/drawable/cloud_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_rain.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\rain.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_rain_background.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\rain_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_colud_background.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\colud_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_sunset.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\sunset.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_cloud_black.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\cloud_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\raw_rain.json.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\raw\\rain.json"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\raw_cloud.json.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\raw\\cloud.json"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\raw_sun.json.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\raw\\sun.json"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_sea.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\sea.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_humidity.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_sunny_background.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\sunny_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_snow_background.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\snow_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\drawable_sunny.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\drawable\\sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\font_merriweathersans_regular.ttf.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\font\\merriweathersans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-debug-32:\\font_merriweathersans_medium.ttf.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.stechbindra.weatherxapp-main-34:\\font\\merriweathersans_medium.ttf"
+    }
+]
